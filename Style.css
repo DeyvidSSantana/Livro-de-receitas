@@ -1,0 +1,40 @@
+body {
+    background-color:rgb(250, 187, 250);
+    font-family: monospace;
+    font-size: x-large;
+}
+#bolo-leite {
+    color:rgb(255, 10, 10);
+}
+#bolo-milho {
+    color:rgb(255, 10, 10);
+}
+.sabor {
+    color:rgb(89, 62, 240);
+} 
+h1 {
+    color:rgb(242, 136, 136);
+}
+#margens {
+    margin: auto;
+    border: 10px ridge goldenrod;
+    border-radius: 5px;
+    padding: 15px;
+} 
+.bolos {
+    border: 6px inset purple;
+    border-radius: 3px;
+    float: left;
+    width: 250px;
+}
+
+.btn-hover{
+    min-height: 45px; 
+    width: 200px; 
+    border-radius: 30px; 
+    border: 0px none white; 
+    background-color: rgb(236, 240, 241); 
+    font-family: "Gamja Flower", cursive; 
+    color: rgb(60, 60, 60); 
+    font-size: 24px;
+}
